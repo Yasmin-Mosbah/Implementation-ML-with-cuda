@@ -1,0 +1,1 @@
+Le but de ce code est d'implémenter le Préfix/SCAN exclusif
